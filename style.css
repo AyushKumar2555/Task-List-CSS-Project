@@ -56,14 +56,14 @@ body{
     border-radius: 2vw;
 }
 .box h3{
-    border-bottom: 2px solid  rgb(51, 180, 206);
+     border-bottom: 2px solid  rgb(51, 180, 206);
     display: flex;
     margin-top: 20px;
-    height: 20vh;
     display: flex;
+    color: rgb(51, 180, 206);
     justify-content: center;
     height: 3vh;
-    font-weight: 400;
+    font-weight: 900;
 }
 .box input{
     width: 2vw;
